@@ -6,9 +6,9 @@
   <groupId>com.example.maven-samples</groupId>
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Parent</name>
-  <description>Just a pom that makes it easy to build both projects at the same time.</description>
+  <description>Just a pom that makes it easy to build both testing projects at the same time.</description>
 
   <modules>
     <module>multi-module</module>
